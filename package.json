@@ -12,12 +12,18 @@
     "@testing-library/user-event": "^12.8.3",
     "chart.js": "^3.5.1",
     "chartjs-chart-venn": "^3.1.0",
+    "d3": "^7.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-venn-selectable": "^0.1.5",
     "reaviz": "^11.1.1",
+    "simple-venn": "^0.2.3",
+    "venn": "^1.1.2",
     "venn.js": "^0.2.20",
     "web-vitals": "^1.1.2"
+  },
+  "devDependencies": {
+    "react-scripts": "4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
