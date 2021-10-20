@@ -9,4 +9,4 @@ https://reaviz.io/
 
 ## Demo
 
-<img src="venn.jpg" alt="Venn Creator Webpage" width="400"/>
+<img src="venn.png" alt="Venn Creator Webpage" width="400"/>
